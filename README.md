@@ -1,7 +1,10 @@
 # Machine-Learning---Neural-Networks---Handwritten-Digits-Classification
+
+## Synopsis
 Python script that uses Machine Learning (Neural Networks) to classify handwritten digits from the MNIST dataset.<br>
 This project was done as a part of the CSE 574 course on Machine Learning at SUNY Buffalo.
 
+## Usage
 Some details about the project:
 <p>1. The MNIST dataset consists of two parts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp; i. Training dataset of 60000 handwritten digits<br>
@@ -27,3 +30,12 @@ Some details about the project:
 <p>4. The script consists of a number of functions for activities like preprocessing, prediction, and other calculations. Appropriate comments in the script explain the various fuctions, as well as their respective inputs and outputs.
 </p>
 
+After making any desired modifications, the above script can simply be executed from the command line as shown below.
+```sh
+python nnScript.py
+```
+
+## Useful Links
+[MNIST Database](http://yann.lecun.com/exdb/mnist/)<br>
+[NumPy](http://www.numpy.org/)<br>
+[SciPy](https://www.scipy.org/)<br>
